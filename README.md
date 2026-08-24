@@ -28,6 +28,7 @@ Python 3.10 or newer is recommended.
 
 ## Project structure
 
+```text
 Market Pulse/
 ├── config.py
 ├── main.py
@@ -50,6 +51,7 @@ Market Pulse/
 │   ├── raw_html/
 │   └── clean_text/
 └── log/
+```
 
 ### Windows PowerShell
 
