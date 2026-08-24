@@ -16,7 +16,7 @@ WATCHLIST = {
 
 
 SEC_HEADERS = {
-    "User-Agent": "Tan Yi Cheng NUSSIF project e1398465@u.nus.edu",
+    "User-Agent": "Tan Yi Cheng project",
     "Accept-Encoding": "gzip, deflate"
 }
 
