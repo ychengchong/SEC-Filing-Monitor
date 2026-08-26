@@ -1,6 +1,6 @@
 # Market Pulse
 
-Market Pulse is an end-to-end SEC filing ingestion and summarisation pipeline built for **Part 2 — Trader Infrastructure Automation**. It collects recent filings for Apple, Microsoft, and Tesla, converts the filing HTML into clean text, creates rule-based filing highlights, and displays the results in a Streamlit dashboard.
+Market Pulse is an end-to-end SEC filing ingestion and summarisation pipeline built. It collects recent filings for Apple, Microsoft, and Tesla, converts the filing HTML into clean text, creates rule-based filing highlights, and displays the results in a Streamlit dashboard.
 
 ## Pipeline
 
